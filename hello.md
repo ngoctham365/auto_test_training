@@ -1,6 +1,4 @@
 # Thanh
 
-Thanh
-
-Anh yeu em
-
+update 1
+update 2
