@@ -1,6 +1,4 @@
 # Thanh
 
-Thanh
-
-Anh yeu em
-
+Line1
+Line2
