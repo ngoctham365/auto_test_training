@@ -12,3 +12,6 @@ line 3
 =====
 update 1
 update 2
+----------
+change feature 1
+change feature 2
