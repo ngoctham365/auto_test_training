@@ -1,6 +1,4 @@
 # Thanh
 
-Thanh
-
-Anh yeu em
-
+Thong tin 1
+Thong tin 2
